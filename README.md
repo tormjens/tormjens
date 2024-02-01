@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Tor Mortens's GitHub stats](https://github-readme-stats.vercel.app/api?username=tormjens&hide=contribs,prs)
+
 <!--
 **tormjens/tormjens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
